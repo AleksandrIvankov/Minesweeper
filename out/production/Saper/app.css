@@ -1,0 +1,30 @@
+.root {
+    -fx-background-color: black;
+}
+
+.tile {
+    -fx-background-color: white;
+    -fx-pref-height: 35;
+    -fx-pref-width: 35;
+}
+
+.opened {
+    -fx-background-color: gray;
+}
+
+.count {
+    -fx-font-size: 22px;
+    -fx-font-weight: bold;
+}
+
+.checked {
+    -fx-background-color: orangered;
+}
+
+.timer {
+    -fx-pref-width: 120px;
+    -fx-font-weight: bold;
+    -fx-font-size: 36px;
+    -fx-text-fill: red;
+}
+
